@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: {{ site.title }}
 ---
-
-## {{ site.title }}
 
 More information on the challenge coming soon.
