@@ -5,4 +5,6 @@
 layout: home
 ---
 
+## Information
+
 More information on the challenge coming soon.
