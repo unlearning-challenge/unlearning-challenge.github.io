@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+## {{ site.title }}
+
+More information on the challenge coming soon.
