@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: NeurIPS 2023 Machine Unlearning Challenge
-email: your-email@example.com
+email: unlearning@chalearn.org
 description: >- # this means to ignore newlines until "baseurl:"
   Website for the NeurIPS 2023 Machine Unlearning Challenge.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "unlearning-challenge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username:  unlearning-challenge
 
 # Build settings
