@@ -12,8 +12,18 @@ Deep neural networks are at the center of rapid progress in AI, with application
 
 The introduction of this legal notion has spurred the development of formal, mathematical notions of "deleting" or "obliterating" one's data, all studied under the auspices of "*machine unlearning*". Informally, unlearning refers to removing the influence of a subset of the training set from the weights of a trained model. The development of novel formal models, their theoretical limitations, and efficient and scalable algorithms is a rich and growing subfield; see for example recent surveys by [Zhang et al. (2023)](https://doi.org/10.1007/s42979-023-01767-4), [Nguyen et al. (2022)](https://arxiv.org/abs/2209.02299), [Jiang et al. (2022)](https://doi.org/10.1117/12.2660330).
 
-> **Our competition aims to accelerate advances in this subfield, by sharpening our focus on promising notions and key challenges.**
+**Our competition aims to accelerate advances in this subfield, by sharpening our focus on promising notions and key challenges.**
 
-## Data, protocol, starter kit, evaluation metrics, and timeline
+## Task and Data
 
-More information on the challenge coming soon.
+The challenge centers on the scenario in which an age predictor is built from face image data and, after training, a certain number of images must be forgotten to protect the privacy or rights of the individuals concerned.
+
+The [starter kit](https://github.com/unlearning-challenge/starting-kit) provides a development (*Check* phase) dataset derived from the Face Synthetics dataset ([Wood et al., 2021](https://microsoft.github.io/FaceSynthetics/)). We assigned each synthetic face in the dataset with an age label obtained from a model trained on a public dataset of faces. The example pre-trained model to be used for unlearning was trained on this age-labeled synthetic dataset.
+
+> **NOTE**: This dataset is meant to be used **only** for benchmarking purposes.
+
+For the *Feedback* and *Final* phases of the challenge, participants' submitted code is evaluated on real face datasets hosted on the CodaLab platform. Those datasets are not made available to participants during the challenge.
+
+## Protocol, starter kit, evaluation metrics, and timeline
+
+More information coming soon.
