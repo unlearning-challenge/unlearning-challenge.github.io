@@ -24,6 +24,16 @@ The [starter kit](https://github.com/unlearning-challenge/starting-kit) provides
 
 For the *Feedback* and *Final* phases of the challenge, participants' submitted code is evaluated on real face datasets hosted on the CodaLab platform. Those datasets are not made available to participants during the challenge.
 
-## Protocol, starter kit, evaluation metrics, and timeline
+## Timeline
+
+**Check phase**: Begins June 28, 2023
+
+**Feedback phase**: Begins early July, 2023, until mid September 2023
+
+**Final phase**: From mid till end of September 2023
+
+We will announce the winners in October 2023.
+
+## Protocol, starter kit, evaluation metrics
 
 More information coming soon.
