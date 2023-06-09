@@ -6,6 +6,9 @@ layout: home
 title: The Challenge
 ---
 
+<img src="Unlearning-logo.png" width="256">
+(Image credits: Dall-E and oppng.com)
+
 ## Why?
 
 Deep neural networks are at the center of rapid progress in AI, with applications to computer vision, natural language processing, speech recognition and others. While this progress offers many exciting opportunities, it also introduces new challenges, as we researchers bear the responsibility to understand and mitigate the potential risks associated with it. Notably, a key ingredient of recent advances is the role of massive datasets combined with ever larger models. This aspect has implications for privacy, as large models tend to memorize details of their training set. Concretely, **the field faces a significant challenge meeting recent privacy regulations**, such as EU's General Data Protection Regulation ([Mantelero, 2013](https://doi.org/10.1016/j.clsr.2013.03.010)) or Canada's [Personal Information Protection and Electronic Documents Act](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/), which stipulate that **individuals have the "right to be forgotten"**.
