@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Website for the NeurIPS 2023 Machine Unlearning Challenge.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "unlearning-challenge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+twitter_username: unlearning_2023
 github_username:  unlearning-challenge
 
 # Build settings

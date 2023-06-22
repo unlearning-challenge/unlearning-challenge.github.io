@@ -6,8 +6,10 @@ layout: home
 title: The Challenge
 ---
 
-<img src="Unlearning-logo.png" width="256">
-(Image credits: Dall-E and oppng.com)
+<div style="width: 256px">
+<img src="Unlearning-logo.png"> <br>
+<p style="color: grey; font-size: 80%">Image credits: Dall-E and oppng.com</p>
+</div>
 
 ## Why?
 
@@ -15,7 +17,7 @@ Deep neural networks are at the center of rapid progress in AI, with application
 
 The introduction of this legal notion has spurred the development of formal, mathematical notions of "deleting" or "obliterating" one's data, all studied under the auspices of "*machine unlearning*". Informally, unlearning refers to removing the influence of a subset of the training set from the weights of a trained model. The development of novel formal models, their theoretical limitations, and efficient and scalable algorithms is a rich and growing subfield; see for example recent surveys by [Zhang et al. (2023)](https://doi.org/10.1007/s42979-023-01767-4), [Nguyen et al. (2022)](https://arxiv.org/abs/2209.02299), [Jiang et al. (2022)](https://doi.org/10.1117/12.2660330).
 
-**Our competition aims to accelerate advances in this subfield, by sharpening our focus on promising notions and key challenges.**
+Machine unlearning is a powerful tool that has the potential to address a number of important problems. As research in this area continues, we can expect to see new methods that are more efficient, effective, and ethical. We are thrilled to have the opportunity via this competition to spark interest in this field, and we are looking forward to sharing our insights and findings with the community.
 
 ## Task and Data
 
@@ -35,8 +37,12 @@ For the *Feedback* and *Final* phases of the challenge, participants' submitted 
 
 **Final phase**: From mid till end of September 2023
 
-We will announce the winners in October 2023.
+Winners will be announced in October 2023.
 
 ## Protocol, starter kit, evaluation metrics
 
 More information coming soon.
+
+# Contact
+
+Announcements about the competition will be made on this website and on the google group [unlearning-challenge](https://groups.google.com/g/unlearning-challenge). 
