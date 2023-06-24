@@ -48,6 +48,8 @@ permalink: /about/
 
 **Meghdad Kurmanji** is a PhD candidate at the University of Warwick, researching machine learning for Data Systems. Meghdad is basically interested in studying the effects of database operations, such as INSERT and DELETE, on ML models developed for database optimization. Meghdad’s previous research focused on INSERT operations and efficient methods for updating ML models in the face of OOD data insertions. Currently, he is researching data DELETION and its impact on ML models for downstream database tasks like Cardinality Estimation and Approximate Query Processing, leading him to explore the problem of Machine Unlearning.
 
+<img src="https://avatars.githubusercontent.com/u/33935825?v=4" alt="Kairan Zhao" style="display: block; margin: 0 auto; max-width: 120px; box-shadow: 6px 6px 3px grey;">
+
 **Kairan Zhao** is a PhD candidate at the University of Warwick, working with Prof. Peter Triantafillou on machine unlearning and its implications for privacy concerns. Her research interests are primarily centered around security, privacy, and optimization in various systems, such as Cyber-Physical Systems and Data Systems. Her current work focuses on studying the impact of machine unlearning methods on ML models, as well as evaluating different privacy attacks against them.
 
 <img src="http://www.cbsr.ia.ac.cn/users/jwan/assets/portrait.jpg" alt="Jun Wan" style="display: block; margin: 0 auto; max-width: 120px; box-shadow: 6px 6px 3px grey;">
