@@ -23,11 +23,12 @@ Machine unlearning is a powerful tool that has the potential to address a number
 
 The challenge centers on the scenario in which an age predictor is built from face image data and, after training, a certain number of images must be forgotten to protect the privacy or rights of the individuals concerned.
 
-The [starter kit](https://github.com/unlearning-challenge/starting-kit) provides a development (*Check* phase) dataset derived from the Face Synthetics dataset ([Wood et al., 2021](https://microsoft.github.io/FaceSynthetics/)). We assigned each synthetic face in the dataset with an age label obtained from a model trained on a public dataset of faces. The example pre-trained model to be used for unlearning was trained on this age-labeled synthetic dataset.
+The [starter kit](https://github.com/unlearning-challenge/starting-kit) provides an example of unlearning algorithms for participants to build their unlearning models upon.
+
 
 > **NOTE**: This dataset is meant to be used **only** for benchmarking purposes.
 
-For the *Feedback* and *Final* phases of the challenge, participants' submitted code is evaluated on real face datasets hosted on the CodaLab platform. Those datasets are not made available to participants during the challenge.
+For the *Feedback* and *Final* phases of the challenge, participants' submitted code is evaluated on real face datasets hosted on Kaggle. Those datasets are not made available to participants during the challenge.
 
 ## Timeline
 
