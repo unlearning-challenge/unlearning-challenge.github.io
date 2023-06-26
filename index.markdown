@@ -8,7 +8,7 @@ title: The Challenge
 
 <div style="width: 256px">
 <img src="Unlearning-logo.png"> <br>
-<p style="color: grey; font-size: 80%">Image credits: Dall-E and oppng.com</p>
+<p style="color: grey; font-size: 80%">Image credits: Dall-E and toppng.com</p>
 </div>
 
 ## Why?
