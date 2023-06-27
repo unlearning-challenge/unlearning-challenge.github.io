@@ -23,16 +23,13 @@ Machine unlearning is a powerful tool that has the potential to address a number
 
 The challenge centers on the scenario in which an age predictor is built from face image data and, after training, a certain number of images must be forgotten to protect the privacy or rights of the individuals concerned.
 
-The [starter kit](https://github.com/unlearning-challenge/starting-kit) provides an example of unlearning algorithms for participants to build their unlearning models upon.
-
-
-> **NOTE**: This dataset is meant to be used **only** for benchmarking purposes.
+The [starting kit](https://github.com/unlearning-challenge/starting-kit) provides an example of unlearning algorithms for participants to build their unlearning models upon.
 
 For the *Feedback* and *Final* phases of the challenge, participants' submitted code is evaluated on real face datasets hosted on Kaggle. Those datasets are not made available to participants during the challenge.
 
 ## Timeline
 
-**Check phase**: Begins June 28, 2023
+**Check phase**: Begins June 28, 2023. Initial announce and availability of the starting kit.
 
 **Feedback phase**: Begins early July, 2023, until mid September 2023
 
@@ -40,9 +37,6 @@ For the *Feedback* and *Final* phases of the challenge, participants' submitted 
 
 Winners will be announced in October 2023.
 
-## Protocol, starter kit, evaluation metrics
-
-More information coming soon.
 
 # Contact
 
