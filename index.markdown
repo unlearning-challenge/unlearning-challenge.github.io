@@ -31,7 +31,7 @@ For the *Feedback* and *Final* phases of the challenge, participants' submitted 
 
 **Check phase**: Begins June 28, 2023. Initial announce and availability of the starting kit.
 
-**Feedback phase**: Begins early July, 2023, until mid September 2023.
+**Feedback phase**: Begins early July, 2023, until mid September 2023. Submission site opens and participants can start making submissions.
 
 **Final phase**: From mid till end of September 2023.
 
