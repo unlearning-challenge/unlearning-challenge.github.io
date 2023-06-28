@@ -29,11 +29,11 @@ For the *Feedback* and *Final* phases of the challenge, participants' submitted 
 
 ## Timeline
 
-**Check phase**: Begins June 28, 2023. Initial announce and availability of the starting kit.
+**Check phase**: Begins June 28, 2023. Initial announcement and availability of the "starting kit", containing a notebook with an example simple unlearning algorithm and a simple metric for evaluation, so that participants can start practicing.
 
-**Feedback phase**: Begins early July, 2023, until mid September 2023. Submission site opens and participants can start making submissions.
+**Feedback phase**: Begins early July, 2023, until mid September 2023. Submission site opens and participants can start making submissions on Kaggle.
 
-**Final phase**: From mid till end of September 2023.
+**Final phase**: From mid till end of September 2023. During this phase, the organizers can run additional analyses on the submitted unlearning algorithms, including different metrics and datasets.
 
 Winners will be announced in October 2023.
 
