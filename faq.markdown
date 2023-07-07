@@ -4,6 +4,17 @@ title: FAQ
 permalink: /faq/
 ---
 
+_Q: I see the example notebooks use PyTorch. Can I use another library instead?_
+
+A: Yes, you can use any Python library that can be installed through `pip`. Note however that `unlearning` function that constitutes the submission to the challenge takes as input a Pytorch model and some Pytorch loaders and expects as output a Pytorch model. Hence, if you use other libraries you will have to make these conversions.
+
+---
+
+_Q: Can I participate within a team?_
+
+A: Yes, you can participate within a team of no more than 5 individuals.
+
+---
 
 _Q: Will the forget set be randomly selected or will it be for example a specific class?_
 
