@@ -4,6 +4,39 @@ title: FAQ
 permalink: /faq/
 ---
 
+_Q: What constitutes a submission to this competition?_
+
+A: A submission to this competition will be a Python function that unlearns a set of examples from a trained model. The API of this unlearning function is detailed below, and takes as input a pre-trained model (specified as a Pytorch nn.Module), a retain set, a forget set and an evaluation set (these last 3 specified as a Pytorch loader). Please see the [starting kit example](https://nbviewer.org/github/unlearning-challenge/starting-kit/blob/main/unlearning-CIFAR10.ipynb) for more information.
+
+```
+
+def unlearning(net, retain, forget, validation):
+    """Unlearning by fine-tuning.
+
+    Fine-tuning is a very simple algorithm that trains using only
+    the retain set.
+
+    Args:
+      net : nn.Module.
+        pre-trained model to use as base of unlearning.
+      retain : torch.utils.data.DataLoader.
+        Dataset loader for access to the retain set. This is the subset
+        of the training set that we don't want to forget.
+      forget : torch.utils.data.DataLoader.
+        Dataset loader for access to the forget set. This is the subset
+        of the training set that we want to forget. This method doesn't
+        make use of the forget set.
+      validation : torch.utils.data.DataLoader.
+        Dataset loader for access to the validation set. This method doesn't
+        make use of the validation set.
+    Returns:
+      net : updated model
+    """
+    return net  # do nothing
+```
+
+---
+
 _Q: I see the example notebooks use PyTorch. Can I use another library instead?_
 
 A: Yes, participants can use any Python library that can be installed through `pip`. Note however that the `unlearning` function that constitutes the submission to the challenge takes as input a Pytorch model and some Pytorch loaders and expects as output a Pytorch model. Hence, to use a different framework than Pytorch, the participant will need to make the conversions between Pytorch models and loaders and those of the chosen framework.
