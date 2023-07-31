@@ -25,7 +25,7 @@ A: The competition will focus on the setting where the forget set is sampled uni
 
 _Q: What kind of assumptions can be made about the model and the algorithm?_
 
-A: All models are trained using a cross-entropy loss and data augmentation during training. We will post the exact details on the the training (algorithm, learning rate, and exact data augmentation) by mid July.
+A: All models are trained using a cross-entropy loss and data augmentation during training. We will post the exact details on the the training (algorithm, learning rate, and exact data augmentation) upon launch of the competition.
 
 ---
 
