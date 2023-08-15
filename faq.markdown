@@ -49,10 +49,9 @@ A: Yes, you can participate within a team of no more than 5 individuals.
 
 ---
 
-_Q: Will the forget set be randomly selected or will it be for example a specific class?_
+_Q: How is the forget set created ?_
 
-A: The competition will focus on the setting where the forget set is sampled uniformly at random from the training dataset. However, we may also evaluate submissions in different settings as part of our post-competition analyses.
-
+A: The evaluation datasets are made of photographs of people, where each person has many associated photographs. The forget set is created by selecting users uniformly at random, and including all their associated photographs. Hence, once a user is selected for deletion, all of their associated images are included in the forget set. Because of this, the forget set is _not_ sampled uniformly from the training set. This is one key difference with the starting kit, where there's only one image associated with a given object.
 
 ---
 
