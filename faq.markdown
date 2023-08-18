@@ -37,7 +37,7 @@ def unlearning(net, retain, forget, validation):
 
 ---
 
-_Q: I see the example notebooks use PyTorch. Can I use another library instead?_
+_Q: The example notebooks use PyTorch. Can I use another library instead?_
 
 A: Yes, participants can use any Python library that can be installed through `pip`. Note however that the `unlearning` function that constitutes the submission to the challenge takes as input a Pytorch model and some Pytorch loaders and expects as output a Pytorch model. Hence, to use a different framework than Pytorch, the participant will need to make the conversions between Pytorch models and loaders and those of the chosen framework.
 
