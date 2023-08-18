@@ -64,7 +64,7 @@ A: All models are trained using a cross-entropy loss and data augmentation durin
 
 _Q: Is the competition only using CIFAR-10?_
 
-A: No, the competition will use natural datasets of human faces for evaluation. We will not release these datasets, but the participants will get feedback based on how well their submitted algorithms do on those datasets via the leaderboard. We are only using CIFAR-10 as part of the starting kit, to demonstrate the problem setting in a toy-ish manner, but we won't use CIFAR-10 for evaluation in the competition. We will also soon release an additional notebook in the starting kit that is based on a dataset of synthetic faces, to provide a dataset that is a bit closer to the ones that will be used for evaluation.
+A: No, the competition will use natural datasets of human faces for evaluation. We will not release these datasets, but the participants will get feedback based on how well their submitted algorithms do on those datasets via the leaderboard. We are only using CIFAR-10 as part of the starting kit, to demonstrate the problem setting in a toy-ish manner, but we won't use CIFAR-10 for evaluation in the competition. 
 
 ---
 
