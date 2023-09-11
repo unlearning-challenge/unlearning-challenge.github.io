@@ -15,7 +15,7 @@ We are also excited to release our [write-up with a formal definition of unlearn
 
 We look forward to receiving your submissions!
 
-
+{% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
     /**

@@ -16,7 +16,6 @@ The starting kit includes: a Jupyter notebook with code to:
 
 The API used in this baseline unlearning method will be the same one that participants will submit once the competition opens. Hence, we hope that this starting kit will help participants get started in developing and trying out their unlearning methods.
 
-{% if page.comments %}
 
 The starting kit can be accessed at [https://github.com/unlearning-challenge/starting-kit](https://github.com/unlearning-challenge/starting-kit).
 
@@ -24,6 +23,7 @@ We hope this starter kit will be helpful to participants as they prepare for the
 
 Thank you for your interest in the NeurIPS 2023 Machine Unlearning Challenge!
 
+{% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
     /**
