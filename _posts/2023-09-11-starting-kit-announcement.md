@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Starting kit now available"
+title:  "Competition launched!"
 date:   2023-09-11 00:00:00 +0000
 categories: announcements
 comments: true
