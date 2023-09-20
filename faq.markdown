@@ -4,6 +4,10 @@ title: FAQ
 permalink: /faq/
 ---
 
+For the most up to date information, please check the [Kaggle Discussion board](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning/discussion)
+
+---
+
 _Q: What constitutes a submission to this competition?_
 
 Please see our [Kaggle page](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning) for information on how to make a submission. 
