@@ -38,6 +38,12 @@ The [starting kit](https://github.com/unlearning-challenge/starting-kit) provide
 
 For the *Feedback* and *Final* phases of the challenge, participants' submitted code is evaluated on real face datasets hosted on Kaggle. Those datasets are not made available to participants during the challenge.
 
+## Useful links
+
+ * **[Kaggle site](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning/)**
+ * **[starting kit](https://github.com/unlearning-challenge/starting-kit)**
+ * **Contact**: google group [unlearning-challenge](https://groups.google.com/g/unlearning-challenge). 
+
 ## Timeline
 
 **Check phase**: Begins June 28, 2023. Initial announcement and availability of the "starting kit", containing a notebook with an example simple unlearning algorithm and a simple metric for evaluation, so that participants can start practicing.
@@ -51,4 +57,4 @@ Winners will be announced in the beginning of December.
 
 # Contact
 
-Announcements about the competition will be made on this website and on the google group [unlearning-challenge](https://groups.google.com/g/unlearning-challenge). 
+Announcements about the competition will be made on this website and on the 
