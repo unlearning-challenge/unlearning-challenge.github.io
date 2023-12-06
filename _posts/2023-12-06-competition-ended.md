@@ -9,7 +9,7 @@ Hi everyone,
 
 The competition has now ended. You can read about winning submissions in [kaggle's discussion board](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning/discussion).
 
-We'll soon be releasing more details about the competition, as well as the code for the evaluation metric. Stay tuned!
+We'll soon be releasing more details about the competition, as well as the code for the evaluation metric in the next couple of months. Stay tuned!
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
