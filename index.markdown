@@ -22,7 +22,7 @@ Machine unlearning is a powerful tool that has the potential to address a number
 
 ## Machine Unlearning Competition
 
-This website provides all necessary information to participate in the first Machine Unlearning Challenge, which is part of the [NeurIPS 2023 Competition Track](https://neurips.cc/Conferences/2023/CompetitionTrack). The goal of the competition is twofold. First, by unifying and standardizing the evaluation metrics for unlearning, we hope to identify the strengths and weaknesses of different algorithms through apples-to-apples comparisons. Second, by opening this competition to everyone, we hope to foster novel solutions and shed light on open challenges and opportunities.
+The goal of the competition is twofold. First, by unifying and standardizing the evaluation metrics for unlearning, we hope to identify the strengths and weaknesses of different algorithms through apples-to-apples comparisons. Second, by opening this competition to everyone, we hope to foster novel solutions and shed light on open challenges and opportunities.
 
 The competition has been [hosted on Kaggle](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning/) and run between mid-August 2023 and mid-November 2023. The competition is not yet open for participants. If you would like to be notified by email when it opens, consider subscribing to the [competition mailing list](https://groups.google.com/g/unlearning-challenge)
 
