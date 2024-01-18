@@ -27,6 +27,8 @@ This website provides all necessary information to participate in the first Mach
 The competition has been [hosted on Kaggle](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning/) and run between mid-August 2023 and mid-November 2023. The competition is not yet open for participants. If you would like to be notified by email when it opens, consider subscribing to the [competition mailing list](https://groups.google.com/g/unlearning-challenge)
 
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBxDAQJ9Nos6pfoOoGbSV6SKm39UszzVWTdb6ozXX9vr1cm8JvlHVAdGjY7aprOi4a9Wrq93DB690c/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Task and Data
 
 The challenge centers on the scenario in which an age predictor is built from face image data and, after training, a certain number of images must be forgotten to protect the privacy or rights of the individuals concerned.
