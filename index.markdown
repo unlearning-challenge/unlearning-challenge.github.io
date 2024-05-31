@@ -42,11 +42,14 @@ The [starting kit](https://github.com/unlearning-challenge/starting-kit) provide
 
 For the *Feedback* and *Final* phases of the challenge, participants' submitted code is evaluated on real face datasets hosted on Kaggle. Those datasets are not made available to participants during the challenge.
 
+*Update May 2024*. The evaluation metric used for the competition is now open sourced. See [its github repo](https://github.com/google-deepmind/unlearning_evaluation) for more details.
+
 ## Useful links
 
  * **[Kaggle site](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning/)**
  * **[starting kit](https://github.com/unlearning-challenge/starting-kit)**
- * **Contact**: google group [unlearning-challenge](https://groups.google.com/g/unlearning-challenge). 
+ * [Code of evaluation metric](https://github.com/google-deepmind/unlearning_evaluation)
+ * **Contact**: google group [unlearning-challenge](https://groups.google.com/g/unlearning-challenge).
 
 ## Timeline
 
