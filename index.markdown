@@ -46,6 +46,7 @@ For the *Feedback* and *Final* phases of the challenge, participants' submitted 
 
 ## Useful links
 
+ * **[Report of competition findings and analyses](https://arxiv.org/abs/2406.09073)**
  * **[Kaggle site](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning/)**
  * **[starting kit](https://github.com/unlearning-challenge/starting-kit)**
  * [Code of evaluation metric](https://github.com/google-deepmind/unlearning_evaluation)
