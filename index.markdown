@@ -65,4 +65,4 @@ Winners will be announced in the beginning of December.
 
 # Contact
 
-Announcements about the competition will be made on this website and on the 
+Announcements about the competition will be made on this website
